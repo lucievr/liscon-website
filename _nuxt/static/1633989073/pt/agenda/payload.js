@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/pt/agenda", {data:[{}],fetch:{},mutations:void 0});
